@@ -32,6 +32,9 @@ A live demo of my website can be accessed [here](https://my-protifolio.netlify.a
 
 
 Feel free to reach out to me if you have any questions or suggestions.
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 9b4d370720254e21ae20b9a15c615a6db051d65c
