@@ -1,18 +1,4 @@
-/*!
-=========================================================
-* Meyawo Landing page
-=========================================================
 
-* Copyright: 2019 DevCRUD (https://devcrud.com)
-* Licensed: (https://devcrud.com/licenses)
-* Coded by www.devcrud.com
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-*/
-
-// smooth scroll
 $(document).ready(function(){
     $(".navbar .nav-link").on('click', function(event) {
 
@@ -35,4 +21,9 @@ $(document).ready(function(){
 $('#nav-toggle').click(function(){
     $(this).toggleClass('is-active')
     $('ul.nav').toggleClass('show');
+});
+
+var downloadButton = document.getElementById('downloadButton');
+downloadButton.addEventListener('click', function() {
+  window.location.href = 'https://drive.google.com/file/d/15Vjor5-UOHPUL41QoUJ4hvn7Ksvkv77Z/view?usp=sharing';
 });
