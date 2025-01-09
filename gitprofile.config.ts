@@ -10,7 +10,7 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 6, // How many projects to display.
@@ -21,7 +21,13 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ananiyalegesse/ethiopian_tourism_app', 'ananiyalegesse/lms'], // List of repository names to display. example: ['ananiyalegesse/my-project1', 'ananiyalegesse/my-project2']
+        projects: [
+                 'ananiyalegesse/compitative_programming',
+                 'ananiyalegesse/alx-system_engineering-devops',
+                 'ananiyalegesse/RSA-Factoring-Challenge',
+                 'ananiyalegesse/uninet_admin_vite',
+                 'ananiyalegesse/tila-solution',
+                 'ananiyalegesse/blog_platform',], // List of repository names to display. example: ['ananiyalegesse/my-project1', 'ananiyalegesse/my-project2']
       },
     },
     external: {
@@ -76,7 +82,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/119IGzR-G-GKxX-7JiTZomC-1Y0LH5e5B/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
