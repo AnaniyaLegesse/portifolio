@@ -39,7 +39,7 @@ const CONFIG = {
           description:
             'Tech company providing web development and digital marketing solutions',
           imageUrl:
-            'public/tila.svg',
+            '/tila.svg',
           link: 'https://tilasolution.netlify.app/',
         },
         {
@@ -47,7 +47,7 @@ const CONFIG = {
           description:
             'Community centered service for the Tetelstai community that works with youth development.',
           imageUrl:
-            'public/tetelstai.png',
+            '/tetelstai.png',
           link: 'https://tetelstai.netlify.app/',
         },
         {
@@ -55,7 +55,7 @@ const CONFIG = {
           description:
             'A payment system for bussiness streamlining payroll managemntsystem.',
           imageUrl:
-            'public/fetanpay.svg',
+            '/fetanpay.svg',
           link: 'https://fetansystems.com/',
         },
       
@@ -64,7 +64,7 @@ const CONFIG = {
           description:
             'Landing page for Guzo travel company.',
           imageUrl:
-            'public/guzo.png',
+            '/guzo.png',
           link: 'https://guzo-landingpage.netlify.app/',
         },
         {
@@ -72,7 +72,7 @@ const CONFIG = {
           description:
             'Front end clone of movie streaming website named Hulu .',
           imageUrl:
-            'public/hulu.png',
+            '/hulu.png',
           link: 'https://anex-clone-2.netlify.app/',
         },
       ],
