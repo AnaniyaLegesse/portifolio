@@ -39,7 +39,7 @@ const CONFIG = {
           description:
             'Tech company providing web development and digital marketing solutions',
           imageUrl:
-            '/tila.svg',
+            'assets/tila.svg',
           link: 'https://tilasolution.netlify.app/',
         },
         {
@@ -47,7 +47,7 @@ const CONFIG = {
           description:
             'Community centered service for the Tetelstai community that works with youth development.',
           imageUrl:
-            '/tetelstai.png',
+            'assets/tetelstai.png',
           link: 'https://tetelstai.netlify.app/',
         },
         {
@@ -55,7 +55,7 @@ const CONFIG = {
           description:
             'A payment system for bussiness streamlining payroll managemntsystem.',
           imageUrl:
-            '/fetanpay.svg',
+            'assets/fetanpay.svg',
           link: 'https://fetansystems.com/',
         },
       
@@ -64,7 +64,7 @@ const CONFIG = {
           description:
             'Landing page for Guzo travel company.',
           imageUrl:
-            '/guzo.png',
+            'assets/guzo.png',
           link: 'https://guzo-landingpage.netlify.app/',
         },
         {
@@ -72,7 +72,7 @@ const CONFIG = {
           description:
             'Front end clone of movie streaming website named Hulu .',
           imageUrl:
-            '/hulu.png',
+            'assets/hulu.png',
           link: 'https://anex-clone-2.netlify.app/',
         },
       ],
@@ -91,7 +91,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/119IGzR-G-GKxX-7JiTZomC-1Y0LH5e5B/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1gKjNb0ID_dX0MqqPsvHpzESQD77LyKMi/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
